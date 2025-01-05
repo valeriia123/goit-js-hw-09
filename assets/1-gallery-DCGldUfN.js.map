@@ -1,1 +1,0 @@
-{"version":3,"file":"1-gallery-DCGldUfN.js","sources":["../../src/js/1-gallery.js"],"sourcesContent":["import SimpleLightbox from \"simplelightbox\";\n// console.log(SimpleLightbox);\n\n\nnew SimpleLightbox('.js-gallery a', { captionsData: 'alt', captionDelay: 250 });"],"names":["SimpleLightbox"],"mappings":"yCAIA,IAAIA,EAAe,gBAAiB,CAAE,aAAc,MAAO,aAAc,IAAK"}
