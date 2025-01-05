@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["import SimpleLightbox from \"simplelightbox\";\n// console.log(SimpleLightbox);\n\n\nnew SimpleLightbox('.js-gallery a', { captionsData: 'alt', captionDelay: 250 });"],"names":["SimpleLightbox"],"mappings":"svBAIA,IAAIA,EAAe,gBAAiB,CAAE,aAAc,MAAO,aAAc,IAAK"}
+{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
